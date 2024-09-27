@@ -1,6 +1,6 @@
 package geometry2d;
 
-import Exceptions.NegativeDimensionException;
+import exceptions.NegativeDimensionException;
 
 public class Circle implements Figure {
     private double radius;

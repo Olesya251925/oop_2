@@ -1,7 +1,7 @@
 package geometry3d;
 
 import geometry2d.Figure;
-import Exceptions.InvalidFigureException;
+import exceptions.InvalidFigureException;
 
 public class Cylinder {
     private Figure base; // Поле для хранения основания цилиндра (двумерная фигура)

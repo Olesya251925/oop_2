@@ -1,4 +1,4 @@
-package Exceptions;
+package exceptions;
 
 //фигура некорректна или недопустима в контексте операции.
 public class InvalidFigureException extends Exception {

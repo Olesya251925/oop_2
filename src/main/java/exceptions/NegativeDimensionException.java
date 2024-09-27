@@ -1,4 +1,4 @@
-package Exceptions;
+package exceptions;
 
 //размеры фигуры заданы неверно (отрицательные значения).
 public class NegativeDimensionException extends Exception {

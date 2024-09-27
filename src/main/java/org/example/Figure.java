@@ -3,8 +3,8 @@ package org.example;
 import geometry2d.Circle;
 import geometry2d.Rectangle;
 import geometry3d.Cylinder;
-import Exceptions.InvalidFigureException;
-import Exceptions.NegativeDimensionException;
+import exceptions.InvalidFigureException;
+import exceptions.NegativeDimensionException;
 
 import java.util.Scanner;
 
